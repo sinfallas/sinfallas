@@ -6,7 +6,9 @@ Skills: DevOps / SRE
 
 - 🔭 I’m currently working on Tecno Consultores 2023 C.A. 
 - 💬 Ask me about anything 
-- 📫 How to reach me: https://www.tecnoconsultores.net/mis-redes-sociales/
+- 📫 How to reach me: https://www.tecnoconsultores.net/mis-redes-sociales
+- 🔭 My homelab equipment: https://www.tecnoconsultores.net/equipamiento
+- 🎬 The community for my youtube channel: https://t.me/comunidad_el_rincon_de_sinfallas
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sinfallas)  
