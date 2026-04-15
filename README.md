@@ -11,6 +11,7 @@ Skills: DevOps / SRE
 - 🎬 The community for my youtube channel: https://t.me/comunidad_el_rincon_de_sinfallas
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sinfallas)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sinfallas) <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+
+![Sinfallas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinfallas&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinfallas)](https://github.com/anuraghazra/github-readme-stats)
